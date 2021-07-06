@@ -1,0 +1,48 @@
+/*-------- Color Section---------*/
+h1{
+    font-family: 'Poppins', sans-serif;
+    color: #676767;
+    font-size: 40px;
+}
+.color-orangee{
+    color: #EE8A43;
+}
+gray-like-color{
+    color: #676767;
+}
+p{
+    color: dimgray;
+}
+.hight{
+    padding-top: 50px ;
+    padding-bottom: 50px;
+
+}
+.button-color{
+    background:linear-gradient(90deg, #F0984C,#EA4E2A);
+    text-decoration: none;
+    margin-top: 100px;
+    padding: 15px 40px;
+    border-radius: 25px;
+    color:white;
+    font-weight: 700;
+}
+#footer-color{
+    background-color: #0B0E17;
+}
+/*----------- Style Section---------*/
+section{
+    display: flex;
+    height: 500px;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+    
+}
+.half-width img{
+    width: 100%;
+}
