@@ -86,6 +86,8 @@ p{
     display: flex;
     box-sizing: border-box;
     justify-content: center;
+    margin-bottom: 100px;
+
 
 }
 .footer{
@@ -93,5 +95,4 @@ p{
     padding: 5px;
     background-color: #0B0E17;
     color: white;
-    
-  }
+    }
