@@ -44,5 +44,11 @@ section{
     
 }
 .half-width img{
-    width: 100%;
+    width: 83%;
+}
+.about-me{
+    padding: 150px;
+    background-image: url("../images/7.png");
+    background-repeat: no-repeat;
+    background-position: center;
 }
